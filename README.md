@@ -3,7 +3,7 @@
 ## 🎯 **Project Goals**
 > Project goal is to delve into critical technologies underpinning self-driving systems, with Computer Vision algorithms. I aim to craft a hands-on ADAS (Advanced Driver-Assistance Systems) & DMS (Driver Monitoring System) through these algorithms. Additionally, this project offers an opportunity to grasp the overarching architecture of autonomous driving systems by intertwining various modules for a holistic view of the technologies.
 
-## 📌 Modules:
+## 📌 Tasks:
 
 ### 📸 1. Perception
 -  **Segmentation**: Implementing image segmentation to differentiate between objects and roadways.

@@ -7,26 +7,26 @@
 ## 📌 Tasks:
 
 ### 📸 1. Perception
-- 🔳 **Segmentation**: Implementing image segmentation to differentiate between objects and roadways.
-- 🕵️ **DMS System**: Constructing a Driver Monitoring System to ensure the driver's alertness and safety.
-- 📹 **ADAS Camera System**: Designing a vision-based system for advanced driver assistance.
+- **Segmentation**: Implementing image segmentation to differentiate between objects and roadways.
+- **DMS System**: Constructing a Driver Monitoring System to ensure the driver's alertness and safety.
+- **ADAS Camera System**: Designing a vision-based system for advanced driver assistance.
 
 ### 🌐 2. LiDAR Perception
-- 🛰️ **3D Object Detection**: Utilizing point cloud data to detect and classify objects in 3D.
-- 🌁 **3D Segmentation**: Developing models to segment the 3D environment for enhanced scene understanding.
+- **3D Object Detection**: Utilizing point cloud data to detect and classify objects in 3D.
+- **3D Segmentation**: Developing models to segment the 3D environment for enhanced scene understanding.
 
 ### 🤝 3. Sensor Fusion
-- 📊 **Point-level Fusion**: Merging data from multiple sensors at the raw data level.
-- 🧩 **Feature-level Fusion**: Combining features extracted from various sensors to create a cohesive representation of the environment.
+- **Point-level Fusion**: Merging data from multiple sensors at the raw data level.
+- **Feature-level Fusion**: Combining features extracted from various sensors to create a cohesive representation of the environment.
 
 ### 🗺️ 4. SLAM (Simultaneous Localization And Mapping)
-- 🖼️ **Image Processing**: Harnessing images to extract essential information for the SLAM process.
-- ☁️ **Point Cloud Processing**: Manipulating LiDAR data to pull out useful features for mapping.
-- 🌌 **Visual SLAM**: Employing images to simultaneously chart the environment and pinpoint the vehicle's location within it.
-- 🏞️ **LiDAR SLAM**: Using LiDAR data for dual tasks of mapping and localization. This is designed in both Python and C++.
+- **Image Processing**: Harnessing images to extract essential information for the SLAM process.
+- **Point Cloud Processing**: Manipulating LiDAR data to pull out useful features for mapping.
+- **Visual SLAM**: Employing images to simultaneously chart the environment and pinpoint the vehicle's location within it.
+- **LiDAR SLAM**: Using LiDAR data for dual tasks of mapping and localization. This is designed in both Python and C++.
 
 ### 🛣️ 5. Path Planning & Control
-- 🔄 **Lane Change**: Envisioning a mechanism for safe and efficient lane transitions on highways.
-- 🚦 **Intersection Handling**: Strategizing for seamless entry and exit maneuvers at rotations and intersections.
+- **Lane Change**: Envisioning a mechanism for safe and efficient lane transitions on highways.
+- **Intersection Handling**: Strategizing for seamless entry and exit maneuvers at rotations and intersections.
 
 ---

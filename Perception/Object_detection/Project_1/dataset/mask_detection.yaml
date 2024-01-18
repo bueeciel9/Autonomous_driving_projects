@@ -1,0 +1,8 @@
+names:
+- OK
+- improperly
+- 'NO'
+nc: 3
+test: /Users/oho/Code/Project_1/dataset/mask_detection/test
+train: /Users/oho/Code/Project_1/dataset/mask_detection/train
+val: /Users/oho/Code/Project_1/dataset/mask_detection/val

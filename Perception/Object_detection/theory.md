@@ -24,3 +24,16 @@ Object detectino dataset:
 - Self-driving car engineering from udacity
 - KITTI
 - open images dataset from google
+
+
+TensorRT: A framework created by NVIDIA, it features technology optimized for NVIDIA GPUs.
+- Builds Runtime binaries to automatically use the optimal computing resources supported by the GPU.
+- Improves Latency and Throughput.
+- Enables efficient execution of Deep Learning applications and services.
+- Latency is measured in time units: the time it takes to process a task.
+- Throughput is measured in tasks per unit of time (second).
+
+ONNX: Open Neural Network Exchange open source project.
+- ONNX represents AI models in a standard format and supports the conversion and sharing of models between different deep learning frameworks.
+
+

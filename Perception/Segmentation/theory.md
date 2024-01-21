@@ -1,0 +1,1 @@
+Semantic segmentation: technology used in image processing and computer vision where each pixel in an image is classified into a category, identifying different objects or classes within the image. This technique involves assigning a class label to every pixel in the image, making it possible to distinguish various objects and their boundaries at the pixel level."
